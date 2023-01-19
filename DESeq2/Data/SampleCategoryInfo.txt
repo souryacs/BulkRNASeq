@@ -1,1 +1,5 @@
-
+Sample_name	File_name	Condition
+Sample1	Filename1	Category1
+Sample2	Filename2	Category1
+Sample3	Filename3	Category2
+Sample4	Filename4	Category2
