@@ -1,1 +1,17 @@
+#==================================== 
+# Configuration file for running the RNA-seq pipeline
+#====================================  
+
+## HISAT2 genome index (hg38)
+GENOME='/home/sourya/HISAT2_indexes/GRCh38/grch38_tran/genome_tran'
+
+## reference GTF file
+GTFFile='/home/sourya/GTF_files/hg38.gtf'
+
+## Trimmomatic package
+TrimmomaticExec='/home/sourya/Trimmomatic-0.38/trimmomatic-0.38.jar'
+
+## Trimmomatic adapter
+## to be downloaded 
+TrimmomaticAdapter='/home/sourya/Trimmomatic_adapter'
 
