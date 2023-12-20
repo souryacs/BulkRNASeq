@@ -14,13 +14,23 @@ La Jolla, San Diego, CA 92037, USA
 Scripts:
 ==========
 
-The folder "RNASeq_Pipeline" contains pipeline to process bulk RNA-seq fastq files, using HISAT2 as the aligner. The output is the gene expression files.
+Check the following folders for respective scripts and README:
 
-The folder "DESeq2" contains the script to run DESeq2 to obtain differentially expressed genes.
+1. RNASeq_Pipeline
 
-The folder "WGCNA" contains the script to run WGCNA to identify networks of interconnected gene regulatory modules.
+    - Pipeline to process bulk RNA-seq fastq files, using HISAT2 as the aligner. 
+    - Output: gene expression
+    - Details are provided in the respective documentation
 
-Individual folders contain separate README files for detailed descriptions.
+2. DESeq2
+
+    - Script to run DESeq2 to obtain differentially expressed genes.
+    - Details are provided in the respective documentation
+
+3. WGCNA:
+
+    - Script to run WGCNA to identify networks of interconnected gene regulatory modules.
+    - Details are provided in the respective documentation
 
 
 Queries
