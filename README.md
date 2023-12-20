@@ -36,6 +36,12 @@ Check the following folders for respective scripts and README:
 
     - Sample script to perform the pathway anaysis on a set of genes using the package *clusterprofiler* (https://guangchuangyu.github.io/software/clusterProfiler/)
 
+5. PCA
+
+    - Sample script to perform PCA on RNA-seq counts (and corresponding samples) according to the given groups of input samples.
+    - User needs to check the Parameters section of the R script, edit the parameters if needed, and run PCA.
+    - This PCA is based on DESeq2 routines, so user needs to install DESeq2 and other dependencies mentioned in the R script.
+
 
 Queries
 =======
