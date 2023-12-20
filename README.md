@@ -32,6 +32,10 @@ Check the following folders for respective scripts and README:
     - Script to run WGCNA to identify networks of interconnected gene regulatory modules.
     - Details are provided in the respective documentation
 
+4. PathwayAnalysis
+
+    - Sample script to perform the pathway anaysis on a set of genes using the package *clusterprofiler* (https://guangchuangyu.github.io/software/clusterProfiler/)
+
 
 Queries
 =======
